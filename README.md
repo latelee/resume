@@ -29,3 +29,8 @@
 ## 工作经历
 
 ## 个人作品
+### [H.264/H.265码流分析播放器](https://github.com/latelee/H264BSAnalyzer)
+基于bitstream库和MFC界面实现的H.264和H.265码流分析器，可自动识别H.264、H.265码流。另外实现裸码流文件的播放功能。
+
+#### [YUV播放器](https://github.com/latelee/YUVPlayer)
+基于MFC界面实现的YUV播放器，支持绝大部分YUV格式。同时具备保存YUV、BMP功能。
