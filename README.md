@@ -20,7 +20,7 @@
 
 **github**：https://github.com/latelee
 
-**期望薪资**：税前月薪18k~20k，个人特别喜欢的公司可例外
+**期望薪资**：税前月薪20k，个人特别喜欢的公司可例外
 
 **期望城市**：广州、深圳
 
@@ -29,7 +29,7 @@
 ## 工作经历
 
 ## 个人作品
-### [H.264/H.265码流分析播放器](https://github.com/latelee/H264BSAnalyzer)
+#### [H.264/H.265码流分析播放器](https://github.com/latelee/H264BSAnalyzer)
 基于bitstream库和MFC界面实现的H.264和H.265码流分析器，可自动识别H.264、H.265码流。另外实现裸码流文件的播放功能。
 
 #### [YUV播放器](https://github.com/latelee/YUVPlayer)
